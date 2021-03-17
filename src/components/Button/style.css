@@ -1,0 +1,17 @@
+.btn {
+    width: 100%;
+    background: aquamarine;
+    color: #fff;
+    border: none;
+    padding: 8px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.btn:disabled {
+    background: greenyellow;
+   
+    cursor: not-allowed;
+
+}

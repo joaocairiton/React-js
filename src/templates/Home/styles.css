@@ -1,0 +1,22 @@
+.container{
+  min-width: 100vh;
+  background: #eee;
+  max-width: 1200px;
+  padding: 30px;
+  margin: 0 auto;
+
+}
+.btn-container {
+  min-height: 100px;
+  display: flex;
+  align-items: flex-end;
+}
+.seacher-container{
+  margin-bottom: 30px;
+}
+.seacher-container h1 {
+  margin-bottom: 30px;
+}
+
+
+
